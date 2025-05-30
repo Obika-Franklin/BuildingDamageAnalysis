@@ -1,6 +1,6 @@
 # Analyzing and Predicting Structural Damage Post-Earthquake in Kavrepalanchok, Nepal
 
-![Alt text](image_url)
+![Alt text](https://github.com/Obika-Franklin/BuildingDamageAnalysis/blob/main/jade-koroliuk-PH9S5SfpV0E-unsplash%20(1).jpg)
 
 This project addresses the critical challenge of predicting building damage from earthquakes, drawing lessons from the devastating 2015 Nepal earthquake. Focusing on the heavily impacted Kavrepalanchok district, the initiative involved meticulously collecting and organizing detailed building characteristics such as age, height, foundation, and roof types into a robust SQLite database. The core objective was to develop a predictive model capable of identifying buildings likely to suffer severe damage *before* an earthquake, thereby enabling proactive reinforcement and targeted aid distribution to enhance community resilience.
 
